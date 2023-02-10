@@ -3,7 +3,7 @@ fun main(){
 var variavelA = "Exemplo"
 var variavelB = "Variavel"
 
- print("$variavelA\t$variavelB\n") // exemplo de variavel
+ print("$variavelA,$variavelB")// exemplo de variavel
 
 
  print("Programação\nKotlin\n")    // (\n) usado para quebra linhas.
