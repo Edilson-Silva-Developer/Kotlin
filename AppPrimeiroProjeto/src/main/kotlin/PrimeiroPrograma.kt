@@ -1,13 +1,10 @@
-/**
- * Comentário com mais detalhes
- */
 fun main() {
-    // Meu primeiro programa
+
+    //Meu primeiro programa
 
     print("1º Programa em Kotlin...")
-    print("Atualizado em 08/02/2023...")
+    print("Projeto vai ser feito com muito sucesso")
+    print("Projeto vai ser feito com muito sucesso")
+    print("Projeto vai ser feito com muito sucesso")
 
 }
-
-
-
