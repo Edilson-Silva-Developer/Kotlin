@@ -1,4 +1,7 @@
-const val PI = 3.141516   // constante tem que ficar fora do fun main
+import kotlin.math.PI
+
+// const val PI = 3.141516   // constante tem que ficar fora do fun main
+
 fun main() {
 
     var circulo = 15
